@@ -24,4 +24,4 @@ In order to actually run the app, in the terminal run:
 
 or
 
-    npm start
+    npm run start
